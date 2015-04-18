@@ -1,8 +1,8 @@
 {
-  "name": "front-end-prototype",
+  "name": "git-blame",
   "version": "0.0.1",
-  "homepage": "https://github.com/chyld/front-end-prototype",
-  "author": "Chyld Medford <chyld.medford@gmail.com>",
+  "homepage": "https://github.com/apr15/github",
+  "author": "C",
   "license": "BSD",
   "devDependencies": {
     "bower": "^1.4.1",

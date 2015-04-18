@@ -1,6 +1,6 @@
 {
   "bitwise": true,
-  "camelcase": true,
+  "camelcase": false,
   "curly": true,
   "eqeqeq": true,
   "forin": true,
@@ -11,7 +11,7 @@
   "noarg": true,
   "noempty": true,
   "nonbsp": true,
-  "quotmark": "single",
+  "quotmark": false,
   "undef": true,
   "unused": true,
 
